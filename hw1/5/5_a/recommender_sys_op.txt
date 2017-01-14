@@ -1,0 +1,184 @@
+k = 25
+
+Train file:u1.base
+Test file:u1.test
+Distance:Euclidean
+MAD:0.793274824783
+
+Train file:u1.base
+Test file:u1.test
+Distance:Manhattan
+MAD:0.804923892398
+
+Train file:u1.base
+Test file:u1.test
+Distance:Lmax
+MAD:0.94031212022
+
+Train file:u2.base
+Test file:u2.test
+Distance:Euclidean
+MAD:0.800631992251
+
+Train file:u2.base
+Test file:u2.test
+Distance:Manhattan
+MAD:0.808211801841
+
+Train file:u2.base
+Test file:u2.test
+Distance:Lmax
+MAD:0.922955331583
+
+Train file:u3.base
+Test file:u3.test
+Distance:Euclidean
+MAD:0.79450188291
+
+Train file:u3.base
+Test file:u3.test
+Distance:Manhattan
+MAD:0.801046619926
+
+Train file:u3.base
+Test file:u3.test
+Distance:Lmax
+MAD:0.930067410836
+
+Train file:u4.base
+Test file:u4.test
+Distance:Euclidean
+MAD:0.794076627287
+
+Train file:u4.base
+Test file:u4.test
+Distance:Manhattan
+MAD:0.80165500428
+
+Train file:u4.base
+Test file:u4.test
+Distance:Lmax
+MAD:0.929188853344
+
+Train file:u5.base
+Test file:u5.test
+Distance:Euclidean
+MAD:0.800237181975
+
+Train file:u5.base
+Test file:u5.test
+Distance:Manhattan
+MAD:0.807571364578
+
+Train file:u5.base
+Test file:u5.test
+Distance:Lmax
+MAD:0.936400912212
+
+Train file:Average of all training
+Test file:Average of all test
+Distance:Euclidean
+MAD:0.797361921106
+
+Train file:Average of all training
+Test file:Average of all test
+Distance:Manhattan
+MAD:0.804621197656
+
+Train file:Average of all training
+Test file:Average of all test
+Distance:Lmax
+MAD:0.929653126994
+
+k = 50
+
+Train file:u1.base
+Test file:u1.test
+Distance:Euclidean
+MAD:0.810291822563
+
+Train file:u1.base
+Test file:u1.test
+Distance:Manhattan
+MAD:0.821529797171
+
+Train file:u1.base
+Test file:u1.test
+Distance:Lmax
+MAD:1.1045830896
+
+Train file:u2.base
+Test file:u2.test
+Distance:Euclidean
+MAD:0.803011648326
+
+Train file:u2.base
+Test file:u2.test
+Distance:Manhattan
+MAD:0.814082097504
+
+Train file:u2.base
+Test file:u2.test
+Distance:Lmax
+MAD:1.1111602341
+
+Train file:u3.base
+Test file:u3.test
+Distance:Euclidean
+MAD:0.798802227408
+
+Train file:u3.base
+Test file:u3.test
+Distance:Manhattan
+MAD:0.809633696581
+
+Train file:u3.base
+Test file:u3.test
+Distance:Lmax
+MAD:1.13457162405
+
+Train file:u4.base
+Test file:u4.test
+Distance:Euclidean
+MAD:0.79694934795
+
+Train file:u4.base
+Test file:u4.test
+Distance:Manhattan
+MAD:0.809674888205
+
+Train file:u4.base
+Test file:u4.test
+Distance:Lmax
+MAD:1.13487912131
+
+Train file:u5.base
+Test file:u5.test
+Distance:Euclidean
+MAD:0.805839584771
+
+Train file:u5.base
+Test file:u5.test
+Distance:Manhattan
+MAD:0.817391825399
+
+Train file:u5.base
+Test file:u5.test
+Distance:Lmax
+MAD:1.13731055113
+
+Train file:Average of all training
+Test file:Average of all test
+Distance:Euclidean
+MAD:0.801150702114
+
+Train file:Average of all training
+Test file:Average of all test
+Distance:Manhattan
+MAD:0.812695626923
+
+Train file:Average of all training
+Test file:Average of all test
+Distance:Lmax
+MAD:1.12948038265
+

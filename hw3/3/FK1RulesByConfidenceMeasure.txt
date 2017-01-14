@@ -1,0 +1,441 @@
+Input file:binary_mushroom.data
+Support:0.01
+Confidence:0.5
+Top 10 rules
+B,P,T,U,V -> L with a confidence measure of 1.0
+D,O,V -> P,L,T with a confidence measure of 1.0
+D,V -> P,T,O with a confidence measure of 1.0
+D,F,V -> O with a confidence measure of 1.0
+L,T,U,V -> P,O with a confidence measure of 1.0
+D,T -> P,O with a confidence measure of 1.0
+B,L,U,V -> P,T,O with a confidence measure of 1.0
+L,T,W -> P with a confidence measure of 1.0
+D,U -> P with a confidence measure of 1.0
+J,L,P,T -> O with a confidence measure of 1.0
+
+
+
+Input file:binary_mushroom.data
+Support:0.2
+Confidence:0.5
+Top 10 rules
+O,W -> P with a confidence measure of 1.0
+P,W -> O with a confidence measure of 1.0
+W -> P with a confidence measure of 0.932835820896
+W -> P,O with a confidence measure of 0.932835820896
+W -> O with a confidence measure of 0.932835820896
+P,U -> O with a confidence measure of 0.866261398176
+B,P -> O with a confidence measure of 0.863668807994
+B,O -> P with a confidence measure of 0.863668807994
+P -> O with a confidence measure of 0.86272279105
+O,U -> P with a confidence measure of 0.861678004535
+
+
+
+Input file:binary_mushroom.data
+Support:0.4
+Confidence:0.5
+Top 10 rules
+P -> O with a confidence measure of 0.86272279105
+O -> P with a confidence measure of 0.860438729198
+O -> T with a confidence measure of 0.709531013616
+P -> T with a confidence measure of 0.708380735684
+T -> O with a confidence measure of 0.632288506909
+T -> P with a confidence measure of 0.629592180654
+
+
+
+
+Input file:binary_mushroom.data
+Support:0.01
+Confidence:0.6
+Top 10 rules
+F,J,L -> T with a confidence measure of 1.0
+B,P,T,U,V -> L with a confidence measure of 1.0
+L,U,W -> P,O with a confidence measure of 1.0
+D,O,V -> P,L,T with a confidence measure of 1.0
+B,O,V,W -> L with a confidence measure of 1.0
+D,F,O,P,U,W -> T with a confidence measure of 1.0
+B,L,U,V -> P,T,O with a confidence measure of 1.0
+J,L,P -> T,O with a confidence measure of 1.0
+B,O,V -> P with a confidence measure of 1.0
+D,L,U -> O with a confidence measure of 1.0
+
+
+
+Input file:binary_mushroom.data
+Support:0.2
+Confidence:0.6
+Top 10 rules
+O,W -> P with a confidence measure of 1.0
+P,W -> O with a confidence measure of 1.0
+W -> P with a confidence measure of 0.932835820896
+W -> P,O with a confidence measure of 0.932835820896
+W -> O with a confidence measure of 0.932835820896
+P,U -> O with a confidence measure of 0.866261398176
+B,P -> O with a confidence measure of 0.863668807994
+B,O -> P with a confidence measure of 0.863668807994
+P -> O with a confidence measure of 0.86272279105
+O,U -> P with a confidence measure of 0.861678004535
+
+
+
+Input file:binary_mushroom.data
+Support:0.4
+Confidence:0.6
+Top 10 rules
+P -> O with a confidence measure of 0.86272279105
+O -> P with a confidence measure of 0.860438729198
+O -> T with a confidence measure of 0.709531013616
+P -> T with a confidence measure of 0.708380735684
+T -> O with a confidence measure of 0.632288506909
+T -> P with a confidence measure of 0.629592180654
+
+
+
+Input file:binary_mushroom.data
+Support:0.01
+Confidence:0.2
+Top 10 rules
+B,P,T,U,V -> L with a confidence measure of 1.0
+D,O,V -> P,L,T with a confidence measure of 1.0
+D,F,T,W -> P with a confidence measure of 1.0
+D,V -> P,T,O with a confidence measure of 1.0
+B,F -> T with a confidence measure of 1.0
+D,F,L,V -> T with a confidence measure of 1.0
+D,F,V -> O with a confidence measure of 1.0
+L,T,U,V -> P,O with a confidence measure of 1.0
+D,T -> P,O with a confidence measure of 1.0
+B,L,U,V -> P,T,O with a confidence measure of 1.0
+
+
+
+Input file:binary_mushroom.data
+Support:0.2
+Confidence:0.2
+Top 10 rules
+O,W -> P with a confidence measure of 1.0
+P,W -> O with a confidence measure of 1.0
+W -> P,O with a confidence measure of 0.932835820896
+W -> P with a confidence measure of 0.932835820896
+W -> O with a confidence measure of 0.932835820896
+P,U -> O with a confidence measure of 0.866261398176
+B,O -> P with a confidence measure of 0.863668807994
+B,P -> O with a confidence measure of 0.863668807994
+P -> O with a confidence measure of 0.86272279105
+O,U -> P with a confidence measure of 0.861678004535
+
+
+
+Input file:binary_mushroom.data
+Support:0.4
+Confidence:0.2
+Top 10 rules
+P -> O with a confidence measure of 0.86272279105
+O -> P with a confidence measure of 0.860438729198
+O -> T with a confidence measure of 0.709531013616
+P -> T with a confidence measure of 0.708380735684
+T -> O with a confidence measure of 0.632288506909
+T -> P with a confidence measure of 0.629592180654
+
+
+
+Input file:binary_solar.data
+Support:0.4
+Confidence:0.5
+Top 10 rules
+D,G,I,K -> F with a confidence measure of 1.0
+D,G,K -> I with a confidence measure of 1.0
+D,G,L -> I with a confidence measure of 1.0
+G,K -> I with a confidence measure of 1.0
+A,D,F,K,L -> I with a confidence measure of 1.0
+F,G -> I with a confidence measure of 1.0
+A,D,K,L -> I with a confidence measure of 1.0
+A,F,K,L -> I with a confidence measure of 1.0
+A,D,L -> I with a confidence measure of 1.0
+F,G,K,L -> I with a confidence measure of 1.0
+
+
+
+
+
+
+Input file:binary_solar.data
+Support:0.2
+Confidence:0.5
+Top 10 rules
+C,D,G,I,K -> A,L,F with a confidence measure of 1.0
+B,D,K,L -> F with a confidence measure of 1.0
+B,D,F,G -> I with a confidence measure of 1.0
+C,D,G,K -> A with a confidence measure of 1.0
+C,D -> A,L with a confidence measure of 1.0
+C -> A,I with a confidence measure of 1.0
+A,K,L -> I with a confidence measure of 1.0
+C,D,G -> A with a confidence measure of 1.0
+C -> I,L with a confidence measure of 1.0
+C,F,I,K,L -> A with a confidence measure of 1.0
+
+
+
+Input file:binary_solar.data
+Support:0.3
+Confidence:0.5
+Top 10 rules
+B,D,K,L -> F with a confidence measure of 1.0
+C,F,I,K,L -> A with a confidence measure of 1.0
+C,I,L -> A with a confidence measure of 1.0
+F,G,K,L -> I with a confidence measure of 1.0
+C -> I,L with a confidence measure of 1.0
+C,K -> I,L with a confidence measure of 1.0
+C,F,K,L -> A with a confidence measure of 1.0
+C -> L with a confidence measure of 1.0
+A,G -> I with a confidence measure of 1.0
+A,C -> I with a confidence measure of 1.0
+
+
+
+Input file:binary_solar.data
+Support:0.2
+Confidence:0.6
+Top 10 rules
+C,D,G,I,K -> A,L,F with a confidence measure of 1.0
+B,D,K,L -> F with a confidence measure of 1.0
+C,D,G,K -> A with a confidence measure of 1.0
+C -> A,I with a confidence measure of 1.0
+C,D,G -> A with a confidence measure of 1.0
+C -> I,L with a confidence measure of 1.0
+C,F,I,K,L -> A with a confidence measure of 1.0
+A,C,G -> I,L with a confidence measure of 1.0
+C,D,G -> F with a confidence measure of 1.0
+C,D,G,I -> F with a confidence measure of 1.0
+
+
+
+Input file:binary_solar.data
+Support:0.3
+Confidence:0.6
+Top 10 rules
+C,F -> A,I,L with a confidence measure of 1.0
+C,I,K -> A with a confidence measure of 1.0
+A,G,L -> I with a confidence measure of 1.0
+B,D,K,L -> F with a confidence measure of 1.0
+A,C -> I with a confidence measure of 1.0
+C,F -> A,I with a confidence measure of 1.0
+A,F,G -> I with a confidence measure of 1.0
+C -> A,L with a confidence measure of 1.0
+D,G,I,K -> F with a confidence measure of 1.0
+A,C,F,I -> L with a confidence measure of 1.0
+
+
+
+Input file:binary_solar.data
+Support:0.4
+Confidence:0.6
+Top 10 rules
+D,G,I,K -> F with a confidence measure of 1.0
+D,G,K -> I with a confidence measure of 1.0
+D,G,L -> I with a confidence measure of 1.0
+G,K -> I with a confidence measure of 1.0
+A,D,F,K,L -> I with a confidence measure of 1.0
+F,G -> I with a confidence measure of 1.0
+A,D,K,L -> I with a confidence measure of 1.0
+A,F,K,L -> I with a confidence measure of 1.0
+A,D,L -> I with a confidence measure of 1.0
+F,G,K,L -> I with a confidence measure of 1.0
+
+
+
+Input file:binary_solar.data
+Support:0.6
+Confidence:0.6
+Top 10 rules
+I,K -> L with a confidence measure of 0.997950819672
+F,I,K -> L with a confidence measure of 0.997899159664
+D,K -> L with a confidence measure of 0.997690531178
+D,F,K -> L with a confidence measure of 0.997682502897
+D,I,K -> L with a confidence measure of 0.997671711292
+D,F,I,K -> L with a confidence measure of 0.997663551402
+F,K -> L with a confidence measure of 0.996894409938
+D -> L with a confidence measure of 0.99667405765
+D -> F with a confidence measure of 0.99667405765
+D,L -> F with a confidence measure of 0.996662958843
+
+
+
+
+
+
+Input file:binary_nursery.data
+Support:0.2
+Confidence:0.5
+Top 10 rules
+A,B,H -> I with a confidence measure of 0.9453125
+A,B -> I with a confidence measure of 0.888095697473
+A,B,E -> I with a confidence measure of 0.872648335745
+A,B,G -> I with a confidence measure of 0.868596237337
+B,E,H -> I with a confidence measure of 0.859375
+B,G,H -> I with a confidence measure of 0.835648148148
+B,H -> I with a confidence measure of 0.835648148148
+B,D -> I with a confidence measure of 0.804990995626
+B,G -> I with a confidence measure of 0.802816901408
+B,E -> I with a confidence measure of 0.802816901408
+
+
+
+Input file:binary_solar.data
+Support:0.2
+Confidence:0.7
+Top 10 rules
+C,D,G,I,K -> A,L,F with a confidence measure of 1.0
+B,D,K,L -> F with a confidence measure of 1.0
+C,D,G,K -> A with a confidence measure of 1.0
+C -> A,I with a confidence measure of 1.0
+C,D,G -> A with a confidence measure of 1.0
+C,F,I,K,L -> A with a confidence measure of 1.0
+C,F,G -> L with a confidence measure of 1.0
+A,C,G -> I,L with a confidence measure of 1.0
+C,D,G -> F with a confidence measure of 1.0
+C,D,G -> I,L,F with a confidence measure of 1.0
+
+
+
+Input file:binary_solar.data
+Support:0.4
+Confidence:0.7
+Top 10 rules
+F,G,L -> I with a confidence measure of 1.0
+D,G,I,K -> F with a confidence measure of 1.0
+G,K -> I with a confidence measure of 1.0
+F,G -> I with a confidence measure of 1.0
+A,D,K,L -> I with a confidence measure of 1.0
+A,F,K,L -> I with a confidence measure of 1.0
+A,D,L -> I with a confidence measure of 1.0
+F,G,K,L -> I with a confidence measure of 1.0
+D,G,K,L -> F with a confidence measure of 1.0
+D,F,G,K -> I with a confidence measure of 1.0
+
+
+
+Input file:binary_solar.data
+Support:0.6
+Confidence:0.7
+Top 10 rules
+I,K -> L with a confidence measure of 0.997950819672
+F,I,K -> L with a confidence measure of 0.997899159664
+D,K -> L with a confidence measure of 0.997690531178
+D,F,K -> L with a confidence measure of 0.997682502897
+D,I,K -> L with a confidence measure of 0.997671711292
+D,F,I,K -> L with a confidence measure of 0.997663551402
+F,K -> L with a confidence measure of 0.996894409938
+D -> L with a confidence measure of 0.99667405765
+D -> F with a confidence measure of 0.99667405765
+D,L -> F with a confidence measure of 0.996662958843
+
+
+
+Input file:binary_nursery.data
+Support:0.3
+Confidence:0.5
+Top 10 rules
+A,B -> I with a confidence measure of 0.888095697473
+B,H -> I with a confidence measure of 0.835648148148
+B,G -> I with a confidence measure of 0.802816901408
+B,E -> I with a confidence measure of 0.802816901408
+B -> I with a confidence measure of 0.795498392283
+A,H -> I with a confidence measure of 0.7859375
+B,I -> A with a confidence measure of 0.744219886823
+A,E -> I with a confidence measure of 0.73502344157
+A,G -> I with a confidence measure of 0.734676159055
+E,H -> I with a confidence measure of 0.734375
+
+
+
+Input file:binary_nursery.data
+Support:0.5
+Confidence:0.5
+Top 10 rules
+
+
+
+Input file:binary_nursery.data
+Support:0.2
+Confidence:0.3
+Top 10 rules
+A,B,H -> I with a confidence measure of 0.9453125
+A,B -> I with a confidence measure of 0.888095697473
+A,B,E -> I with a confidence measure of 0.872648335745
+A,B,G -> I with a confidence measure of 0.868596237337
+B,E,H -> I with a confidence measure of 0.859375
+B,G,H -> I with a confidence measure of 0.835648148148
+B,H -> I with a confidence measure of 0.835648148148
+B,D -> I with a confidence measure of 0.804990995626
+B,E -> I with a confidence measure of 0.802816901408
+B,G -> I with a confidence measure of 0.802816901408
+
+
+
+Input file:binary_nursery.data
+Support:0.3
+Confidence:0.3
+Top 10 rules
+A,B -> I with a confidence measure of 0.888095697473
+B,H -> I with a confidence measure of 0.835648148148
+B,G -> I with a confidence measure of 0.802816901408
+B,E -> I with a confidence measure of 0.802816901408
+B -> I with a confidence measure of 0.795498392283
+A,H -> I with a confidence measure of 0.7859375
+B,I -> A with a confidence measure of 0.744219886823
+A,E -> I with a confidence measure of 0.73502344157
+A,G -> I with a confidence measure of 0.734676159055
+E,H -> I with a confidence measure of 0.734375
+
+
+
+Input file:binary_nursery.data
+Support:0.5
+Confidence:0.3
+Top 10 rules
+
+
+
+Input file:binary_nursery.data
+Support:0.2
+Confidence:0.6
+Top 10 rules
+A,B,H -> I with a confidence measure of 0.9453125
+A,B -> I with a confidence measure of 0.888095697473
+A,B,E -> I with a confidence measure of 0.872648335745
+A,B,G -> I with a confidence measure of 0.868596237337
+B,E,H -> I with a confidence measure of 0.859375
+B,G,H -> I with a confidence measure of 0.835648148148
+B,H -> I with a confidence measure of 0.835648148148
+B,D -> I with a confidence measure of 0.804990995626
+B,G -> I with a confidence measure of 0.802816901408
+B,E -> I with a confidence measure of 0.802816901408
+
+
+
+Input file:binary_nursery.data
+Support:0.3
+Confidence:0.6
+Top 10 rules
+A,B -> I with a confidence measure of 0.888095697473
+B,H -> I with a confidence measure of 0.835648148148
+B,E -> I with a confidence measure of 0.802816901408
+B,G -> I with a confidence measure of 0.802816901408
+B -> I with a confidence measure of 0.795498392283
+A,H -> I with a confidence measure of 0.7859375
+B,I -> A with a confidence measure of 0.744219886823
+A,E -> I with a confidence measure of 0.73502344157
+A,G -> I with a confidence measure of 0.734676159055
+E,H -> I with a confidence measure of 0.734375
+
+
+
+Input file:binary_nursery.data
+Support:0.5
+Confidence:0.6
+Top 10 rules
+
+
+

@@ -1,0 +1,346 @@
+Input file:binary_mushroom.data
+Support:0.01
+Lift:1.2
+Top 10 rules
+B,P,T,U,V -> L with a lift measure of 7.80859375
+D,O,V -> P,L,T with a lift measure of 7.80859375
+F,L,P,T -> D,V with a lift measure of 7.80859375
+T,V,W -> P,L with a lift measure of 7.80859375
+P,T,V -> W,L,O,F with a lift measure of 7.80859375
+D,T,V -> P,U,L with a lift measure of 7.80859375
+L -> J,D,O with a lift measure of 7.80859375
+O,P,V -> L,W with a lift measure of 7.80859375
+F,O,P,V -> D,L with a lift measure of 7.80859375
+F,O,V -> P,U,L,T with a lift measure of 7.80859375
+
+
+
+Input file:binary_mushroom.data
+Support:0.2
+Lift:1.2
+Top 10 rules
+O,P -> W with a lift measure of 1.63933081844
+W -> P,O with a lift measure of 1.63933081844
+O,W -> P with a lift measure of 1.51611679939
+P -> O,W with a lift measure of 1.51611679939
+O -> P,W with a lift measure of 1.51210287443
+P,W -> O with a lift measure of 1.51210287443
+P -> W with a lift measure of 1.41428805914
+W -> P with a lift measure of 1.41428805914
+O -> W with a lift measure of 1.41054372615
+W -> O with a lift measure of 1.41054372615
+
+
+
+Input file:binary_mushroom.data
+Support:0.4
+Lift:1.2
+Top 10 rules
+O -> P with a lift measure of 1.30452561219
+P -> O with a lift measure of 1.30452561219
+
+
+
+
+Input file:binary_mushroom.data
+Support:0.01
+Lift:3.0
+Top 10 rules
+B,P,T,U,V -> L with a lift measure of 7.80859375
+D,O,V -> P,L,T with a lift measure of 7.80859375
+F,L,P,T -> D,V with a lift measure of 7.80859375
+T,V,W -> P,L with a lift measure of 7.80859375
+P,T,V -> W,L,O,F with a lift measure of 7.80859375
+D,T,V -> P,U,L with a lift measure of 7.80859375
+F,O,V -> P,U,L,T with a lift measure of 7.80859375
+V -> O,P,D,L,F with a lift measure of 7.80859375
+V,W -> U,L,O,T with a lift measure of 7.80859375
+B,L,T,W -> P,O,V with a lift measure of 7.80859375
+
+
+
+Input file:binary_mushroom.data
+Support:0.2
+Lift:3.0
+Top 10 rules
+
+
+
+Input file:binary_mushroom.data
+Support:0.4
+Lift:3.0
+Top 10 rules
+
+
+
+Input file:binary_mushroom.data
+Support:0.01
+Lift:1.75
+Top 10 rules
+B,P,T,U,V -> L with a lift measure of 7.80859375
+D,O,V -> P,L,T with a lift measure of 7.80859375
+F,L,P,T -> D,V with a lift measure of 7.80859375
+T,V,W -> P,L with a lift measure of 7.80859375
+P,T,V -> W,L,O,F with a lift measure of 7.80859375
+D,T,V -> P,U,L with a lift measure of 7.80859375
+F,O,V -> P,U,L,T with a lift measure of 7.80859375
+V -> O,P,D,L,F with a lift measure of 7.80859375
+V,W -> U,L,O,T with a lift measure of 7.80859375
+B,L,T,W -> P,O,V with a lift measure of 7.80859375
+
+
+
+Input file:binary_mushroom.data
+Support:0.2
+Lift:1.75
+Top 10 rules
+
+
+
+Input file:binary_mushroom.data
+Support:0.4
+Lift:1.75
+Top 10 rules
+
+
+
+
+Input file:binary_solar.data
+Support:0.4
+Lift:1.0
+Top 10 rules
+D,I,K -> L,G,F with a lift measure of 1.13392867105
+F,G,L -> I,K,D with a lift measure of 1.13392867105
+F,G -> I,K,D,L with a lift measure of 1.13295528023
+D,I,K,L -> G,F with a lift measure of 1.13295528023
+D,I,K -> G,F with a lift measure of 1.13229351268
+F,G -> I,K,D with a lift measure of 1.13229351268
+D,I,L -> K,G,F with a lift measure of 1.1292832987
+F,G,K -> I,D,L with a lift measure of 1.1292832987
+F,G,K -> I,D with a lift measure of 1.12746140386
+D,I -> K,G,F with a lift measure of 1.12746140386
+
+
+
+
+
+
+Input file:binary_solar.data
+Support:0.2
+Lift:1.0
+Top 10 rules
+C,F -> A,K,D,G,L with a lift measure of 2.28977272727
+C,F,I -> A,K,D,G,L with a lift measure of 2.28977272727
+A,D,G,K,L -> C,F with a lift measure of 2.28977272727
+C,F -> A,D,G,I,K,L with a lift measure of 2.28977272727
+A,D,G,I,K,L -> C,F with a lift measure of 2.28977272727
+A,D,G,K,L -> I,C,F with a lift measure of 2.28977272727
+C,F,I,L -> A,K,D,G with a lift measure of 2.28236245955
+C,F -> A,I,K,D,G with a lift measure of 2.28236245955
+A,D,G,K -> C,L,F with a lift measure of 2.28236245955
+C,F -> A,K,D,G with a lift measure of 2.28236245955
+
+
+
+Input file:binary_solar.data
+Support:0.3
+Lift:1.0
+Top 10 rules
+C -> A,I,K,L,F with a lift measure of 1.98468295079
+A,F,I,K,L -> C with a lift measure of 1.98468295079
+C -> A,K,L,F with a lift measure of 1.98468295079
+A,F,K,L -> I,C with a lift measure of 1.98468295079
+C,I -> A,K,L,F with a lift measure of 1.98468295079
+A,F,K,L -> C with a lift measure of 1.98468295079
+A,F,I,K -> C,L with a lift measure of 1.97720768544
+A,F,I,K -> C with a lift measure of 1.97720768544
+C -> A,I,K,F with a lift measure of 1.97720768544
+C,L -> A,I,K,F with a lift measure of 1.97720768544
+
+
+
+Input file:binary_solar.data
+Support:0.2
+Lift:1.5
+Top 10 rules
+A,D,G,I,K,L -> C,F with a lift measure of 2.28977272727
+C,F -> A,K,D,G,L with a lift measure of 2.28977272727
+C,F -> A,D,G,I,K,L with a lift measure of 2.28977272727
+C,F,I -> A,K,D,G,L with a lift measure of 2.28977272727
+A,D,G,K,L -> I,C,F with a lift measure of 2.28977272727
+A,D,G,K,L -> C,F with a lift measure of 2.28977272727
+A,D,G,I,K -> C,F with a lift measure of 2.28236245955
+A,D,G,K -> I,C,F with a lift measure of 2.28236245955
+C,F,I -> A,K,D,G with a lift measure of 2.28236245955
+C,F -> A,K,D,G with a lift measure of 2.28236245955
+
+
+
+Input file:binary_solar.data
+Support:0.3
+Lift:1.5
+Top 10 rules
+A,F,I,K,L -> C with a lift measure of 1.98468295079
+A,F,K,L -> C with a lift measure of 1.98468295079
+C,I -> A,K,L,F with a lift measure of 1.98468295079
+C -> A,K,L,F with a lift measure of 1.98468295079
+C -> A,I,K,L,F with a lift measure of 1.98468295079
+A,F,K,L -> I,C with a lift measure of 1.98468295079
+C -> A,I,K,F with a lift measure of 1.97720768544
+A,F,I,K -> C,L with a lift measure of 1.97720768544
+A,F,I,K -> C with a lift measure of 1.97720768544
+C,L -> A,I,K,F with a lift measure of 1.97720768544
+
+
+
+Input file:binary_solar.data
+Support:0.4
+Lift:1.5
+Top 10 rules
+
+
+
+Input file:binary_solar.data
+Support:0.6
+Lift:1.5
+Top 10 rules
+
+
+
+
+
+
+Input file:binary_nursery.data
+Support:0.2
+Lift:1.0
+Top 10 rules
+A,B,H -> I with a lift measure of 1.42661053773
+I -> A,H,B with a lift measure of 1.42661053773
+I -> A,B with a lift measure of 1.34026227362
+A,B -> I with a lift measure of 1.34026227362
+H,I -> A,B with a lift measure of 1.32303943876
+A,B -> I,H with a lift measure of 1.32303943876
+I -> A,B,E with a lift measure of 1.31695001548
+A,B,E -> I with a lift measure of 1.31695001548
+I -> A,B,G with a lift measure of 1.31083482469
+A,B,G -> I with a lift measure of 1.31083482469
+
+
+
+Input file:binary_solar.data
+Support:0.2
+Lift:2.0
+Top 10 rules
+C,F,I -> A,K,D,G,L with a lift measure of 2.28977272727
+A,D,G,I,K,L -> C,F with a lift measure of 2.28977272727
+A,D,G,K,L -> C,F with a lift measure of 2.28977272727
+C,F -> A,K,D,G,L with a lift measure of 2.28977272727
+A,D,G,K,L -> I,C,F with a lift measure of 2.28977272727
+C,F -> A,D,G,I,K,L with a lift measure of 2.28977272727
+C,F,L -> A,K,D,G with a lift measure of 2.28236245955
+C,F,I,L -> A,K,D,G with a lift measure of 2.28236245955
+A,D,G,I,K -> C,F with a lift measure of 2.28236245955
+C,F -> A,I,K,D,G with a lift measure of 2.28236245955
+
+
+
+Input file:binary_solar.data
+Support:0.4
+Lift:2.0
+Top 10 rules
+
+
+
+Input file:binary_solar.data
+Support:0.6
+Lift:2.0
+Top 10 rules
+
+
+
+Input file:binary_nursery.data
+Support:0.3
+Lift:1.0
+Top 10 rules
+I -> A,B with a lift measure of 1.34026227362
+A,B -> I with a lift measure of 1.34026227362
+B,H -> I with a lift measure of 1.26111148851
+I -> H,B with a lift measure of 1.26111148851
+B -> A,I with a lift measure of 1.21991753069
+A,I -> B with a lift measure of 1.21991753069
+I -> B,G with a lift measure of 1.21156448414
+B,G -> I with a lift measure of 1.21156448414
+I -> B,E with a lift measure of 1.21156448414
+B,E -> I with a lift measure of 1.21156448414
+
+
+
+Input file:binary_nursery.data
+Support:0.5
+Lift:1.0
+Top 10 rules
+
+
+
+Input file:binary_nursery.data
+Support:0.2
+Lift:1.2
+Top 10 rules
+I -> A,H,B with a lift measure of 1.42661053773
+A,B,H -> I with a lift measure of 1.42661053773
+A,B -> I with a lift measure of 1.34026227362
+I -> A,B with a lift measure of 1.34026227362
+H,I -> A,B with a lift measure of 1.32303943876
+A,B -> I,H with a lift measure of 1.32303943876
+I -> A,B,E with a lift measure of 1.31695001548
+A,B,E -> I with a lift measure of 1.31695001548
+I -> A,B,G with a lift measure of 1.31083482469
+A,B,G -> I with a lift measure of 1.31083482469
+
+
+
+Input file:binary_nursery.data
+Support:0.3
+Lift:1.2
+Top 10 rules
+I -> A,B with a lift measure of 1.34026227362
+A,B -> I with a lift measure of 1.34026227362
+I -> H,B with a lift measure of 1.26111148851
+B,H -> I with a lift measure of 1.26111148851
+A,I -> B with a lift measure of 1.21991753069
+B -> A,I with a lift measure of 1.21991753069
+B,E -> I with a lift measure of 1.21156448414
+I -> B,E with a lift measure of 1.21156448414
+I -> B,G with a lift measure of 1.21156448414
+B,G -> I with a lift measure of 1.21156448414
+
+
+
+Input file:binary_nursery.data
+Support:0.5
+Lift:1.2
+Top 10 rules
+
+
+
+Input file:binary_nursery.data
+Support:0.2
+Lift:1.5
+Top 10 rules
+
+
+
+Input file:binary_nursery.data
+Support:0.3
+Lift:1.5
+Top 10 rules
+
+
+
+Input file:binary_nursery.data
+Support:0.5
+Lift:1.5
+Top 10 rules
+
+
+

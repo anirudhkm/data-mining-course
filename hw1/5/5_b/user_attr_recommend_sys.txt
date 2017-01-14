@@ -1,0 +1,24 @@
+Train file:u1.base
+Test file:u1.test
+MAD:0.792274162032
+
+Train file:u2.base
+Test file:u2.test
+MAD:0.780100250627
+
+Train file:u3.base
+Test file:u3.test
+MAD:0.777761066827
+
+Train file:u4.base
+Test file:u4.test
+MAD:0.779920845649
+
+Train file:u5.base
+Test file:u5.test
+MAD:0.781893829265
+
+Train file:Average of training set
+Test file:Average of testing set
+MAD:0.781893829265
+
